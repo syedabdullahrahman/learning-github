@@ -3,7 +3,7 @@ int main()
 {
 		int a,b;
 		a=5;
-		b=1000;
+		b=44;
 		
 		//Adding swap functionality
 		
