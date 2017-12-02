@@ -9,7 +9,7 @@ int main()
 {
 		int a,b;
 		a=5;
-		b=3500;
+		b=3.1416;
 
 		//Adding swap functionality
 		swap(&a,&b);
